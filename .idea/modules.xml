@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Git12.iml" filepath="$PROJECT_DIR$/.idea/Git12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NemZel/NemZel.iml" filepath="$PROJECT_DIR$/NemZel/NemZel.iml" />
+    </modules>
+  </component>
+</project>
